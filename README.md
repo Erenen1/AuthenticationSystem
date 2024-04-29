@@ -28,8 +28,8 @@ Projeyi yerel ortamınızda docker ile çalıştırmak için aşağıdaki adıml
 
 Yazdıktan sonra bu adresler üzerinden servislere ulaşabilirsiniz
 
-``http://localhost:3000``
+http://localhost:3000
 
-``mongodb://localhost/AuthSystem``
+mongodb://localhost/AuthSystem
 
-``redis://localhost:6379``
+redis://localhost:6379
