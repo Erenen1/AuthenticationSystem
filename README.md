@@ -30,6 +30,6 @@ Yazdıktan sonra bu adresler üzerinden servislere ulaşabilirsiniz
 
 http://localhost:3000
 
-mongodb://localhost/AuthSystem
+mongodb://localhost:27017/AuthSystem
 
 redis://localhost:6379
